@@ -1,0 +1,7 @@
+﻿MappingComponentName,Type,Project
+tf_SimplifyCSS_ABL_Schedule,advancedtaskflow,SimplifyCSS
+mt_ABL_Combined_PseudoMapping_1,mappingtask,SimplifyCSS
+mt_ABL_CombinedXSD_LKP_1,mappingtask,SimplifyCSS
+mt_ABL_SNOW_Lookups_SiteID,mappingtask,SimplifyCSS
+mt_ABL_CombinedXSD_LKP_2,mappingtask,SimplifyCSS
+mt_ABL_CombinedXSD_LKP_3,mappingtask,SimplifyCSS

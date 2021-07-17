@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Doc>
+  <S>
+    <Text>Thanks for contributing an answer to Stack Overflow!</Text>
+    <Tokens>
+      <Token word="low">
+        <Morph>
+          <Lemma>sdfs</Lemma>
+          <info>qw</info>
+          <Aff>
+            <Type>sdfs</Type>
+            <Suf>qw</Suf>
+          </Aff>
+        </Morph>
+      </Token>
+    </Tokens>
+  </S>
+</Doc>
