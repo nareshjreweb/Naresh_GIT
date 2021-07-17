@@ -1,0 +1,24 @@
+siteid|id|detectedtimestamp|datatype|ignore|description|alertguid|O_Type|O_Message_Key|O_resource|O_Synposis|O_MetricName|O_CI_Identifier|O_DetectedTimeStamp|O_Description|O_Source|O_AdditionalIzInfo|O_Severity
+PAYPAL11|9999|2021-02-04 15:36:56|timestamp|FALSE|AIC3 DDB Upload
+13of28|91dd5658-dcc0-475d-8cef-4e4800541472|RootCause|PAYPAL11_9999|SYS.1||9999|{"name":"PAYPAL11"}|02/04/2021 15:36:56|AIC3 DDB Upload
+13of28|GSCTOOLS|}|4
+CATCENCO01|3031|2021-02-04 21:51:11|timestamp|FALSE|ntpmon warning(s) found:
+Feb 4 18:00:13 CAT-1-2 ntpmon[11072]: DEGRADED: NTP Monitor: 206 # Node time offset check sntp error 
+Feb 4 18:00:00 CAT-1-2 ntpmon[9963]: DEGRADED: NTP Monitor: 207 # The Hardware Clock is not in-sync with the OS clock 
+|3258ebc2-aa69-468f-9e7b-74af0fdab50c|RootCause|CATCENCO01_3031|SYS.1||3031|{"name":"CATCENCO01"}|02/04/2021 21:51:11|ntpmon warning(s) found:
+Feb 4 18:00:13 CAT-1-2 ntpmon[11072]: DEGRADED: NTP Monitor: 206 # Node time offset check sntp error 
+Feb 4 18:00:00 CAT-1-2 ntpmon[9963]: DEGRADED: NTP Monitor: 207 # The Hardware Clock is not in-sync with the OS clock 
+|GSCTOOLS|}|4
+MOBILINK2750|3040|2021-02-04 21:50:07|timestamp|FALSE|Possible Runaway Process Detected: Found 36 instances of '/usr/tdbms/bin/ferret -s -g 0x00281e4d -f 0x00288a92' running on byn001-9,byn001-15,byn001-8,byn001-10.|074939ac-f5e3-4b0e-b5dd-01832669fa6e|RootCause|MOBILINK2750_3040|SYS.1||3040|{"name":"MOBILINK2750"}|02/04/2021 21:50:07|Possible Runaway Process Detected: Found 36 instances of '/usr/tdbms/bin/ferret -s -g 0x00281e4d -f 0x00288a92' running on byn001-9,byn001-15,byn001-8,byn001-10.|GSCTOOLS|}|4
+MOBILINK2750|3040|2021-02-04 21:50:07|timestamp|FALSE|Possible Runaway Process Detected: Found 36 instances of '/usr/tdbms/bin/ferret -s -g 0x0028c0e1 -f 0x00286dc5' running on byn001-9,byn001-15,byn001-8,byn001-10.|0f9a7d77-b404-4d6b-a481-d50dbe51a424|RootCause|MOBILINK2750_3040|SYS.1||3040|{"name":"MOBILINK2750"}|02/04/2021 21:50:07|Possible Runaway Process Detected: Found 36 instances of '/usr/tdbms/bin/ferret -s -g 0x0028c0e1 -f 0x00286dc5' running on byn001-9,byn001-15,byn001-8,byn001-10.|GSCTOOLS|}|4
+THRPROD1|9999|2021-02-04 21:30:17|timestamp|FALSE|AIC3 DDB Upload|3aebb28f-d47a-4f88-9bb7-be62a119b516|RootCause|THRPROD1_9999|SYS.1||9999|{"name":"THRPROD1"}|02/04/2021 21:30:17|AIC3 DDB Upload|GSCTOOLS|}|4
+PAYPAL11|3031|2019-06-20 09:50:03|timestamp|FALSE|ntpmon warning(s) found:
+Jun 20 02:00:12 PAYPAL11-99-16 ntpmon[74123]: WARNING: NTP Monitor: 209 # NTP Server 10.102.2.16 is unreachable (KAP2BF972) [Sync'd to: 39.80.8.26] 
+Jun 20 02:00:12 PAYPAL11-99-16 ntpmon[74110]: WARNING: NTP Monitor: 209 # NTP Ser|003f76e1-4bb9-4c83-8d64-6c57232c0214|RootCause|PAYPAL11_3031|SYS.1||3031|{"name":"PAYPAL11"}|06/20/2019 09:50:03|ntpmon warning(s) found:
+Jun 20 02:00:12 PAYPAL11-99-16 ntpmon[74123]: WARNING: NTP Monitor: 209 # NTP Server 10.102.2.16 is unreachable (KAP2BF972) [Sync'd to: 39.80.8.26] 
+Jun 20 02:00:12 PAYPAL11-99-16 ntpmon[74110]: WARNING: NTP Monitor: 209 # NTP Ser|GSCTOOLS|}|4
+PAYPAL11|3125|2019-09-05 15:50:22|timestamp|FALSE|dfmon warning(s) found:
+Sep 5 08:50:01 PAYPAL11-99-14 dfmon[68536]: CRITICAL: Disk Free Monitor: 102 #Filesystem "/var" is 98% full. 
+|50fb9d91-08fa-4829-88aa-734bb52a41e3|RootCause|PAYPAL11_3125|SYS.1||3125|{"name":"PAYPAL11"}|09/05/2019 15:50:22|dfmon warning(s) found:
+Sep 5 08:50:01 PAYPAL11-99-14 dfmon[68536]: CRITICAL: Disk Free Monitor: 102 #Filesystem "/var" is 98% full. 
+|GSCTOOLS|}|4

@@ -1,0 +1,15 @@
+[I 22:53:50.826 NotebookApp] The port 8888 is already in use, trying another port.
+[I 22:53:51.070 NotebookApp] JupyterLab extension loaded from /Users/na250047/opt/anaconda3/lib/python3.7/site-packages/jupyterlab
+[I 22:53:51.070 NotebookApp] JupyterLab application directory is /Users/na250047/opt/anaconda3/share/jupyter/lab
+[I 22:53:51.076 NotebookApp] Serving notebooks from local directory: /Users/na250047/Development/Naresh_PGDDS/Data_Engineering/AWS_Hadoop_CloudEra
+[I 22:53:51.076 NotebookApp] The Jupyter Notebook is running at:
+[I 22:53:51.076 NotebookApp] http://localhost:8889/?token=6d366e9afd326fd071140f46e78ca62779480c7fa0d8e0ad
+[I 22:53:51.077 NotebookApp]  or http://127.0.0.1:8889/?token=6d366e9afd326fd071140f46e78ca62779480c7fa0d8e0ad
+[I 22:53:51.077 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 22:53:51.091 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///Users/na250047/Library/Jupyter/runtime/nbserver-20818-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/?token=6d366e9afd326fd071140f46e78ca62779480c7fa0d8e0ad
+     or http://127.0.0.1:8889/?token=6d366e9afd326fd071140f46e78ca62779480c7fa0d8e0ad
